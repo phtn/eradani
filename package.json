@@ -4,7 +4,15 @@
   "description": "dark minimalist theme",
   "publisher": "phtn",
   "website": "https://github.com/phtn",
-  "version": "0.0.1",
+  "version": "0.0.21",
+  "icon": "icon.png",
+  "author": "phtn",
+  "pricing": "free",
+  "company": "re-up.ph",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phtn/eradani"
+  },
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -21,3 +29,4 @@
     ]
   }
 }
+
