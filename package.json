@@ -1,0 +1,23 @@
+{
+  "name": "eradani",
+  "displayName": "Eradani Deep Minima",
+  "description": "dark minimalist theme",
+  "publisher": "phtn",
+  "website": "https://github.com/phtn",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eradani Deep Minima",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eradani-deep-minima.json"
+      }
+    ]
+  }
+}
